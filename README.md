@@ -11,8 +11,7 @@
 
 **E-mail**: lzt404@outlook.com
 
-我是大连海事大学的本科生,导师是[人工智能学院](https://ai.dlmu.edu.cn/)的[**张博**](https://www.bzhang.work/)教授。
-正在朝着尝试成为EE and CS 全栈工程师
+正在尝试成为EE and CS 全栈工程师
 
 <!--
 **lzt404/lzt404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
