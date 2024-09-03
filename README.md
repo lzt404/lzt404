@@ -1,8 +1,6 @@
 ## **👋 Hi here, 我是梁展通**
 [简体中文](https://github.com/lzt404) | [English](https://github.com/lzt404) | [日语](https://github.com/lzt404)
 
-我是大连海事大学的本科生,导师是[人工智能学院](https://ai.dlmu.edu.cn/)的[**张博**](https://www.bzhang.work/)教授。
-
 方向: **计算机体系结构**，**数字IC**，**操作系统**，**嵌入式**
 
 主页: https://lzt404.github.io/homepage/
@@ -12,6 +10,9 @@
 博客: loading......
 
 **E-mail**: lzt404@outlook.com
+
+我是大连海事大学的本科生,导师是[人工智能学院](https://ai.dlmu.edu.cn/)的[**张博**](https://www.bzhang.work/)教授。
+正在朝着尝试成为EE and CS 全栈工程师
 
 <!--
 **lzt404/lzt404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
