@@ -1,5 +1,5 @@
 ## **👋 Hi here, 我是梁展通**
-[简体中文](https://github.com/lzt404) | [English](https://github.com/lzt404) | [日语](https://github.com/lzt404)
+[简体中文](https://github.com/lzt404) | [English](README_en.md) | [日语](https://github.com/lzt404)
 
 方向: **计算机体系结构**，**数字IC**，**操作系统**，**嵌入式**
 
