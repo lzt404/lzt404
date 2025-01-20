@@ -25,7 +25,7 @@
     </td>
   </tr>
 </table>
-### ⚡ 我的技术栈 | My Tech Stack
+###⚡ 我的技术栈 | My Tech Stack
 
 * ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg)  ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)![ARM Assembly](https://img.shields.io/badge/ARM-Assembly-0091BD?logo=arm&logoColor=white&style=flat)![RISC-V Assembly](https://img.shields.io/badge/RISC--V-Assembly-000000?logo=riscv&logoColor=white&style=flat) 
 
