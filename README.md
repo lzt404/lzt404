@@ -1,5 +1,21 @@
+
+
 ## **👋 Hi here, 我是梁展通**
 [简体中文](https://github.com/lzt404) | [English](README_en.md) | [日语](https://github.com/lzt404)
+
+<table>
+<tr>
+<td>
+[![My github stats](https://github-readme-stats.vercel.app/api?username=WangXuan95&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats)]()
+
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzt404&layout=compact&langs_count=4)]()
+
+</td>
+</tr>
+</table>
 
 方向: **计算机体系结构**，**数字IC**，**操作系统**，**嵌入式**
 
