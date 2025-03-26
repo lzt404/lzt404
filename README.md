@@ -5,7 +5,7 @@
 
 
 方向: **计算机体系结构**，**数字IC**，**操作系统**，**嵌入式**，**FPGA**
-
+电航学社:https://github.com/dlmu-dhxs
 主页: https://lzt404.github.io/homepage/
 
 **E-mail**: lzt404@outlook.com
