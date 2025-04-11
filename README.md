@@ -30,7 +30,7 @@
 
 ### ⚡ 我的技术栈 | My Tech Stack
 
-* ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg)  ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![ARM Assembly](https://img.shields.io/badge/ARM-Assembly-0091BD?logo=arm&logoColor=white&style=flat)![RISC-V Assembly](https://img.shields.io/badge/RISC--V-Assembly-000000?logo=riscv&logoColor=white&style=flat) 
+* ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg)  ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![ARM Assembly](https://img.shields.io/badge/ARM-Assembly-0091BD?logo=arm&logoColor=white&style=flat) ![RISC-V Assembly](https://img.shields.io/badge/RISC--V-Assembly-000000?logo=riscv&logoColor=white&style=flat) 
 
 * ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=flat) ![HiSilicon](https://img.shields.io/badge/HiSilicon-FF0000?logoColor=white&style=flat) ![Linux Embedded](https://img.shields.io/badge/Linux-Embedded-000000?logo=linux&logoColor=white&style=flat) ![RT-Thread](https://img.shields.io/badge/RT--Thread-Embedded-FF6F61?logo=rt-thread&logoColor=white&style=flat) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg)
 
