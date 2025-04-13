@@ -8,7 +8,7 @@
 
 电航学社:[https://github.com/dlmu-dhxs](https://github.com/dlmu-dhxs)
 
-主页: [https://lzt404.github.io/homepage/](https://www.lzt404.cn/aboutme/)
+主页: [https://www.lzt404.cn/aboutme/](https://www.lzt404.cn/aboutme/)
 
 **E-mail**: lzt404@outlook.com
 
