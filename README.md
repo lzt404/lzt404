@@ -1,6 +1,6 @@
 
 
-## **👋 Hi here, 我是梁展通**
+## **👋 Hi here**
 [简体中文](https://github.com/lzt404) | [English](README_en.md) | [日语](https://github.com/lzt404)
 
 
