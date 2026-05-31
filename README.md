@@ -15,19 +15,6 @@
 正在尝试成为EE and CS 的魔法师。
 
 
-### GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lzt404&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats" alt="My GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzt404&layout=compact&langs_count=4" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
 ### ⚡ 我的技术栈 | My Tech Stack
 
 * ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg)  ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![ARM Assembly](https://img.shields.io/badge/ARM-Assembly-0091BD?logo=arm&logoColor=white&style=flat) ![RISC-V Assembly](https://img.shields.io/badge/RISC--V-Assembly-000000?logo=riscv&logoColor=white&style=flat) 
