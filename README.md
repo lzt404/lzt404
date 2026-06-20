@@ -10,7 +10,7 @@
 
 主页: [https://www.lzt404.cn/](https://www.lzt404.cn/)
 
-**E-mail**: lzt404@outlook.com
+**E-mail**: lzt404@foxmail.com
 
 正在尝试成为EE and CS 的魔法师。
 
